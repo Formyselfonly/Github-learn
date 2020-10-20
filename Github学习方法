@@ -1,0 +1,24 @@
+一`知识点
+1.Github的基本操作
+  1.借用别人的代码   利用fork选项fork到自己的responsity(仓库)中
+  2.把responsity(仓库)中的文件移植到电脑上
+  3.把移植到电脑上的文件修改后再发送到Github上保管(法1.使用Git命令,也就是cmd   法2.使用GitHub desktop进行可视化操作,就是点击鼠标不输入命令)
+  tips:①GitHub desktop的下载  https://link.zhihu.com/?target=https%3A//github-windows.s3.amazonaws.com/standalone/GitHubDesktop.exe                   
+       ②GitHub desktop的汉化 https://blog.csdn.net/weixin_41272892/article/details/102722799
+2.GitHub的使用流程
+  1.fork别人的项目
+  2.clone到自己的github desktop中
+  3.在自己的本地电脑中修改文件
+  4.GitHub desktop会自动检测出你的修改内容,然后你按提示操作就能把你的修改传递到GitHub网站中的仓库了
+tips.Github的小缺陷 clone速度
+    大家会发现从GitHub上clone项目到电脑很慢很慢,这不是网速的问题也不是浏览器的问题,这是因为Github是外国软件,被限速了,所以从GitHub上下载东西很慢.
+    但是我们可以利用gitee. 因为gitee也有仓库,所以你可以通过clone上的那个地址把仓库复制到gitee,然后gitee下载到电脑的速度就会很快
+    
+二`课后习题
+fork我的这个项目,然后添加一张图片到我的项目中.
+提示:需要遵循一.2中的使用流程  你先要fork我的项目,然后clone到自己的电脑上某个文件夹,然后放一张照片到这个文件夹,这时候GitHub desktop能检测到,这时候你就根据文字提示将你修改的项目push到你自己的仓库中,
+然后你再通过pull request(发送请求)将自己的修改发送给我,如果我同意,你的修改就能加到我的项目上
+
+三`题外话
+我写的不怎么好,主要是想要帮助新手们快速入门.因为我也发现了在不会一个东西的时候,别人说啥我都不知道啥意思,而会用了之后就感觉特别简单.我能体会新手们的心情,甚至可能会因为看不懂英语就放弃使用这个软件,大家
+加油们!  另外如果有大佬能够加入我的项目,使这个面向新手的教程完善下去,就更好了.
